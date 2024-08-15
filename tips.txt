@@ -1,0 +1,13 @@
+visual studio code
+
+extensions: 
+Angular Language Service
+Angular Essentials
+
+GitHub
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources
+
+
+
+
+

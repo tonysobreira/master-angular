@@ -1,0 +1,9 @@
+https://angular.dev/tools/cli
+https://angular.dev/tools/cli/setup-local
+
+starting Project
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/01-starting-project.zip
+
+npm install
+
+

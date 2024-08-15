@@ -1,0 +1,14 @@
+#create new project
+ng new first-angular-app
+
+#start project
+npm start
+
+
+#create componente via cli
+ng generate componente
+ng g c user
+
+
+
+
