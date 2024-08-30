@@ -10,5 +10,13 @@ ng generate componente
 ng g c user
 
 
+ng g c tasks/new-task --skip-tests
+
+#ui component
+ng g c shared/card --skip-tests
+
+
+
+
 
 
