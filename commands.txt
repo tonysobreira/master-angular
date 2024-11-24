@@ -15,6 +15,24 @@ ng g c tasks/new-task --skip-tests
 #ui component
 ng g c shared/card --skip-tests
 
+--
+
+ng g c header --skip-tests
+ng g c user-input --skip-tests
+ng g c investment-results --skip-tests
+
+
+
+
+typescript
+
+##always available
+result!
+
+##optional
+result?
+
+
 
 
 
