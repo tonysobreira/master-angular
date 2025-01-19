@@ -11,3 +11,5 @@ https://github.com/mschwarzmueller/angular-complete-guide-course-resources
 
 
 
+https://angular.dev/guide/components/lifecycle
+

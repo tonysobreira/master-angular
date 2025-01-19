@@ -5,8 +5,8 @@ ng new first-angular-app
 npm start
 
 
-#create componente via cli
-ng generate componente
+#create component via cli
+ng generate component
 ng g c user
 
 
@@ -22,7 +22,17 @@ ng g c user-input --skip-tests
 ng g c investment-results --skip-tests
 
 
+--
 
+service
+
+ng generate service my-service
+
+
+
+
+
+--
 
 typescript
 
