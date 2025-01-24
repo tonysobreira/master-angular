@@ -13,3 +13,5 @@ https://github.com/mschwarzmueller/angular-complete-guide-course-resources
 
 https://angular.dev/guide/components/lifecycle
 
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement
+
