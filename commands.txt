@@ -29,8 +29,13 @@ service
 ng generate service my-service
 
 
+--
 
+directive
 
+ng g d auth/auth --skip-tests
+
+ng g d log --skip-tests
 
 --
 
