@@ -39,6 +39,16 @@ ng g d log --skip-tests
 
 --
 
+--
+
+pipe
+
+ng g p sort --skip-tests
+
+--
+
+
+
 typescript
 
 ##always available

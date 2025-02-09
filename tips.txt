@@ -9,6 +9,9 @@ https://github.com/mschwarzmueller/angular-complete-guide-course-resources
 
 
 
+https://academind.com/tutorials/reference-vs-primitive-values
+
+
 
 
 https://angular.dev/guide/components/lifecycle

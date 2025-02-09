@@ -1,0 +1,8 @@
+1 - getting started
+2 - angular essentials - componentes, templates, services & more
+3 - angular essentials - working with modules
+4 - angular essentials - time to practice
+5 - debugging angular apps
+6 - componentes & templates - deep dive
+7 - enhancing elements with directives - deep dive
+8 - transforming values with pipes - deep dive
