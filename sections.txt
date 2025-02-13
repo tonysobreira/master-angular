@@ -6,3 +6,4 @@
 6 - componentes & templates - deep dive
 7 - enhancing elements with directives - deep dive
 8 - transforming values with pipes - deep dive
+9 - understanding services & dependency injection - deep dive
