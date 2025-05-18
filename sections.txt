@@ -8,3 +8,11 @@
 8 - transforming values with pipes - deep dive
 9 - understanding services & dependency injection - deep dive
 10 - making sense of change detection - deep dive
+11 - Working with RxJS (Observables) - Deep Dive
+12 - Sending HTTP Requests & Handling Responses
+13 - Handling User Input & Working with Forms (Template-driven & Reactive)
+14 - Routing & Building Multi-page Single Page Applications
+15 - Code Splitting & Deferrable Views
+16 - Deploying Angular Apps - CSR, SSR, SGA
+36 - Authentication & Route Protection in Angular
+
