@@ -14,5 +14,4 @@
 14 - Routing & Building Multi-page Single Page Applications
 15 - Code Splitting & Deferrable Views
 16 - Deploying Angular Apps - CSR, SSR, SGA
-36 - Authentication & Route Protection in Angular
 
